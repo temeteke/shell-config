@@ -9,8 +9,18 @@ alias less='less -R'
 alias crontab='crontab -i'
 
 # 打ち間違いに対応
-alias l=ls
 alias sl=ls
+
+# 省略
+alias b=bat
+alias c=cat
+alias f=fzf
+alias g=git
+alias k=kubectl
+alias l=ls
+alias ll='ls -Ahl'
+alias t=tmux
+alias v=vim
 
 # sudo
 # https://yudoufu.hatenablog.jp/entry/20110326/1301129885
