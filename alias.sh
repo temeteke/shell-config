@@ -11,14 +11,18 @@ alias crontab='crontab -i'
 # 打ち間違いに対応
 alias sl=ls
 
+# 追加コマンド
+alias ll='ls -Ahl'
+
 # 省略
 alias b=bat
 alias c=cat
+alias d=docker
 alias f=fzf
 alias g=git
 alias k=kubectl
 alias l=ls
-alias ll='ls -Ahl'
+alias q=exit
 alias t=tmux
 alias v=vim
 
