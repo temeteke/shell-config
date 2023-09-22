@@ -6,6 +6,9 @@ alias egrep='egrep --color=auto'
 alias less='less -R'
 
 # 安全のため
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
 alias crontab='crontab -i'
 
 # 打ち間違いに対応
