@@ -29,10 +29,6 @@ alias q=exit
 alias t=tmux
 alias v=vim
 
-# sudo
-# https://yudoufu.hatenablog.jp/entry/20110326/1301129885
-alias sudo='sudo -E '
-
 # Windows character encoding convert
 # http://myfuturesightforpast.blogspot.jp/2015/10/cygwinmsys2windows.html
 if [ "$OS" = "Windows_NT" ]; then
